@@ -67,7 +67,4 @@ Multiple Sensor CAN Vehicle Dashboard using LPC2129
 
 ---
 
-## Example CAN Frames
-
-### Headlight ON
 
